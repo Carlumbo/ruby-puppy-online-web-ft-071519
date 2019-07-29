@@ -4,7 +4,7 @@ class Dog
   
   def initialize(name)
     @name = name 
-    new 
+    new
   end 
   
   def self.print_all
